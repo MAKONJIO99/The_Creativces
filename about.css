@@ -1,0 +1,53 @@
+#win{
+    color: black;
+    opacity: 1.0;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.bid{
+    background-image: url(hand.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px; 
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 120px;
+    font-weight: 1000;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    
+}
+#pan{
+    float: right;
+    color: white;
+    font-size: xx-large;
+    clear: right;
+    padding-bottom: 2px;
+}
+h2{
+    text-align: center;
+    justify-content: center;
+    font-weight: 900;
+    align-items: center;
+    font-style: italic;
+    font-size: 50px;
+}
+p{
+    font-size: 30px;
+    font-weight: 450;
+}
+#D1{
+    box-sizing: content-box;
+    box-shadow: 3px 3px 5px grey;
+}
+
+#peg{
+    float: right;
+    display: inline-block;
+    align-items: flex-start;
+}
