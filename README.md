@@ -1,9 +1,9 @@
 # THE VIRTUAL COUNSELLOR.
 ## Authors
-# FRANCIS MAKONJIO,
-# QUEENZY ONG'EYE,
-# AMOS KIPROTICH,
-# ELVIS OTIENO MIDIGO,
+### FRANCIS MAKONJIO,
+### QUEENZY ONG'EYE,
+### AMOS KIPROTICH,
+### ELVIS OTIENO MIDIGO,
 ## Description
 This website is designed to help people with suffering from poor mental health to help them acquire help.
 ### Prerequisites
