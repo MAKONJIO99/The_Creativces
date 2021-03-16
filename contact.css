@@ -1,6 +1,35 @@
+*{
+    background-color: white;
+}
 body{
     background-color: white;
 
+}
+nav{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-right: 0%;
+}
+nav>ul{
+    text-align: right;
+}
+nav>ul>li{
+    display: inline-block;
+}
+nav>ul>li>a {
+    padding: 18px;
+    margin-right: 0;
+    text-transform: uppercase;
+    text-decoration:underline;
+    display: block;
+    color: black;
+    font-size: 20px;
+}
+nav>ul>li>a:hover{
+    box-shadow: 0 0 10 px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+    background: aqua;
+    color: rgba(0, 35, 122, 0.7);
 }
 h1{
 
@@ -15,6 +44,8 @@ h1{
     padding-left: 50px;
     display: flex;
     margin-left: 50px;
+    height: 100px;
+    
 
 }
 
@@ -42,3 +73,65 @@ h1{
 .HELP{
     padding-top: 50px;
 }
+.button {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 4px;
+    cursor: pointer;
+    border-radius: 5px;
+    }
+.button1 {
+    background-color: #03BB85;
+    border: 2px solid ;
+    
+    }
+    .formStyle {
+        margin: 20px;
+        background:white;
+        padding: 6px;
+        width: 85%;
+        margin-bottom: 20px;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: #black;
+        border-top-style: none;
+        border-right-style: none;
+        border-left-style: none;
+        font-size: 28px;
+        font-weight: 100;
+        color: #ffffff;
+        border-radius: 5px;
+        }
+        .formButton {
+        margin: 20px;
+        background-color:#03BB85;
+        display:inline-block;
+        color:#ffffff;
+        font-size:28px;
+        font-weight: 500;
+        padding:6px 50px;
+        text-decoration:none;
+        border-radius: 5px;
+        }
+        .formStyle2 {
+            margin: 20px;
+            background:white;
+            padding: 6px;
+            width: 40%;
+            height: 80px;
+            margin-bottom: 20px;
+            border-bottom-width: 1px;
+            border-bottom-style: solid;
+            border-bottom-color: black;
+            border-top-style: none;
+            border-right-style: none;
+            border-left-style: none;
+            font-size: 28px;
+            font-weight: 100;
+            color: #ffffff;
+            border-radius: 5px;
+            }
