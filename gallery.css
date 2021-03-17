@@ -44,6 +44,7 @@ h1{
 .images1 a:hover{
   box-shadow: 0 0 10px black, inset 0 0 1px grey;
   background-color: aqua;
+  box-shadow: black 20px;
 }
 .images2{
   display: flex;
@@ -55,26 +56,35 @@ h1{
   background-color: aqua;
 }
 #pic1{
-  width: 400px;
-  margin-right: 20px;
+  width: 600px;
+  margin-right: 60px;
   margin-left: 10px;
 }
 #pic2{
-  width: 400px;
-  margin-right: 20px;
+  width: 600px;
+  margin-right: 60px;
 }
 #pic3{
-  width: 400px;
+  width: 600px;
 }
 #pic4{
-  width: 400px;
-  margin-right: 20px;
+  width: 600px;
+  margin-right: 60px;
   margin-left: 10px;
 }
 #pic5{
-  width: 400px;
-  margin-right: 20px;
+  width: 600px;
+  margin-right: 60px;
 }
 #pic6{
-  width: 400px;
+  width: 600px;
+}
+.info{
+  background-color: aqua;
+  width: 600px;
+  float: right;
+}
+.info a:hover{
+  background-color: lime;
+  box-shadow: black 20px;
 }
