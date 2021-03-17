@@ -19,8 +19,9 @@ To access this project on your local files, you can clone it using these steps
 ### Technologies Used
 1. HTML
 1. CSS
+1. JS
 1. Git
 ### Live Site
-View [live]()
+View [live](https://makonjio99.github.io/The_Creative/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
